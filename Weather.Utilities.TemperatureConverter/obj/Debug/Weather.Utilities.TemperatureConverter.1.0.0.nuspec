@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Weather.Utilities.TemperatureConverter</id>
+    <version>1.0.0</version>
+    <authors>Ogulcan Ocakli</authors>
+    <description>This package will help in converting temperature between Fahrenheit and Degree Celsius</description>
+    <tags>Temperature,Converter</tags>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Z:\Weather.Utilities.TemperatureConverter\Weather.Utilities.TemperatureConverter\bin\Debug\net6.0\Weather.Utilities.TemperatureConverter.dll" target="lib\net6.0\Weather.Utilities.TemperatureConverter.dll" />
+  </files>
+</package>

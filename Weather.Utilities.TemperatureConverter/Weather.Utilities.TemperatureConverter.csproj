@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+
+	<PackageId>Weather.Utilities.TemperatureConverter</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Ogulcan Ocakli</Authors>
+	<Company></Company>
+	<PackageTags>Temperature,Converter</PackageTags>
+	<Description>This package will help in converting temperature between Fahrenheit and Degree Celsius</Description>
+  </PropertyGroup>
+
+</Project>
